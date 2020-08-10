@@ -1,5 +1,5 @@
 {
-    "name": "BLE_VOLTMETER",
+    "name": "BLE_Homero",
     "description": "",
     "dependencies": {
         "core": "*",
@@ -8,7 +8,8 @@
     "files": [
         "main.blocks",
         "main.ts",
-        "README.md"
+        "README.md",
+        "main.py"
     ],
     "testFiles": [
         "test.ts"
